@@ -28,7 +28,7 @@ JCS 原版材质包是模块化开发的，目前有环境包，XeKr红石包，
 
 ### 1.12-V1.0.1版本
 
-点击此**[链接](https://github.com/wzsjc2020/JCS-Vanilla-Extension-Texture-Pack/blob/main/preview%20tables/1.12/JCS%E5%8E%9F%E7%89%88%E6%9D%90%E8%B4%A8%E7%8E%AF%E5%A2%83%E6%8B%93%E5%B1%95%E5%8C%851.12-V1.0.1%20%E4%BF%AE%E6%94%B9%E9%A2%84%E8%A7%88%E8%A1%A8.xlsx?raw=true**查看或下载修改预览表
+点击此**[链接](https://github.com/wzsjc2020/JCS-Vanilla-Extension-Texture-Pack/blob/main/preview%20tables/1.12/JCS%E5%8E%9F%E7%89%88%E6%9D%90%E8%B4%A8%E7%8E%AF%E5%A2%83%E6%8B%93%E5%B1%95%E5%8C%851.12-V1.0.1%20%E4%BF%AE%E6%94%B9%E9%A2%84%E8%A7%88%E8%A1%A8.xlsx?raw=true)**查看或下载修改预览表
 
 # Minectaft 1.17
 
