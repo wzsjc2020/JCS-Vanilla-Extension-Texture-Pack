@@ -22,15 +22,13 @@ JCS 原版材质包是模块化开发的，目前有环境包，XeKr红石包，
 
 ## 目前支持包
 
-（环境美化包）Extension of Environment
+（环境美化包）Extension of Environment,（测量火把包）Extension of Measurement
 
 ## Extension of Environment 
 
 ### 1.12-V1.0.1版本
 
 点击此**[链接](https://docs.google.com/spreadsheets/d/1Taw-btr1lSJ7PjbuwwgJsWJZ4r1VeZjK/edit?usp=sharing&ouid=112881014251126024396&rtpof=true&sd=true)**查看或下载修改预览表
-
-（测量火把包）Extension of Measurement
 
 ## Extension of Measurement
 
