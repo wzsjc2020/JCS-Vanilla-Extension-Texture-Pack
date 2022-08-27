@@ -30,6 +30,14 @@ JCS 原版材质包是模块化开发的，目前有环境包，XeKr红石包，
 
 点击此**[链接](https://docs.google.com/spreadsheets/d/1Taw-btr1lSJ7PjbuwwgJsWJZ4r1VeZjK/edit?usp=sharing&ouid=112881014251126024396&rtpof=true&sd=true)**查看或下载修改预览表
 
+（测量火把包）Extension of Measurement
+
+## Extension of Measurement
+
+### 1.12-V1.0.1版本
+
+点击此**[链接](https://docs.google.com/spreadsheets/d/1KiPkRPp-BtR7CTIFSKKWlwk8R7hdc1KE/edit?usp=sharing&ouid=112881014251126024396&rtpof=true&sd=true)**查看或下载修改预览表
+
 # Minectaft 1.17
 
 ## 还没来得及写~
